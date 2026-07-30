@@ -16,7 +16,7 @@
 ## 🛡️ About Me
 
 * 🎓 Studying **Computer Science**
-* 🔐 Graduate of **Information Security Technologies**
+* 🔐 Graduate of **Cyber Security**
 * 🚩 Focused on **penetration testing, web security, OSINT, incident response and DFIR**
 * 🧪 Building practical security projects and documenting hands-on labs
 * 📚 Continuously improving through CTFs, TryHackMe rooms and security research
