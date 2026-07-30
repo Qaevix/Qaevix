@@ -39,7 +39,7 @@
 
 
 
----
+<img src="https://raw.githubusercontent.com/Qaevix/Qaevix/main/Assets/green-lightsaber.svg" alt="Animated green lightsaber" width="100%">
 
 <div align="center">
 
