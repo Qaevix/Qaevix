@@ -7,7 +7,7 @@
 *Breaking systems to understand how to defend them.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://qaevix.github.io)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-l1nux-212c42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Qaevix)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Qaevix-212c42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Qaevix)
 
 </div>
 
