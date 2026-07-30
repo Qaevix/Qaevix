@@ -17,6 +17,7 @@
 <br>
 
 <img src="https://raw.githubusercontent.com/Qaevix/Qaevix/main/Assets/red-lightsaber.svg" alt="Animated red lightsaber" width="100%">
+</div>
 
 ---
 
