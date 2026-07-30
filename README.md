@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./assets/qaevix.svg" alt="Qaevix" />
+  <img src="./Assets/qaevix.svg" alt="Qaevix" />
 </p>
 
 # Hi, I'm Qaevix 👋
