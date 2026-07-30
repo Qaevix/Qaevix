@@ -2,13 +2,13 @@
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#801D1D">
-        <animate attributeName="stop-color" values="#00F5FF;#7C3AED;#FF4ECD;#00F5FF" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#801D1D;#A82A1B;#471713;#291312" dur="6s" repeatCount="indefinite"/>
       </stop>
       <stop offset="50%" stop-color="#A82A1B">
-        <animate attributeName="stop-color" values="#7C3AED;#FF4ECD;#00F5FF;#7C3AED" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#A82A1B;#471713;#291312;#801D1D" dur="6s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%" stop-color="#471713">
-        <animate attributeName="stop-color" values="#FF4ECD;#00F5FF;#7C3AED;#FF4ECD" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#471713;#291312;#801D1D;#A82A1B" dur="6s" repeatCount="indefinite"/>
       </stop>
       <animateTransform
         attributeName="gradientTransform"
