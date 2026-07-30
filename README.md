@@ -14,9 +14,15 @@
 [![Medium](https://img.shields.io/badge/Medium-Qaevix-212c42?style=for-the-badge\&logo=Medium\&logoColor=white)](https://qaevix.medium.com)
 
 
-<p align="center">
-  <img src="./Assets/,red-lightsaber.svg" alt="Qaevix" />
-</p>
+<br>
+
+<img
+  src="https://raw.githubusercontent.com/Qaevix/Qaevix/main/Assets/red-lightsaber.svg"
+  alt="Animated red lightsaber"
+  width="100%"
+>
+
+</div>
 
 </div>
 
