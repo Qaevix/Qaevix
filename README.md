@@ -3,7 +3,6 @@
 <p align="center">
   <img src="./Assets/qaevix.svg" alt="Qaevix" />
 </p>
-
 ### Cybersecurity & Computer Science Student
 
 *Breaking systems to understand how to defend them.*
