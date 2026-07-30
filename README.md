@@ -14,6 +14,9 @@
 [![Medium](https://img.shields.io/badge/Medium-Qaevix-212c42?style=for-the-badge\&logo=Medium\&logoColor=white)](https://qaevix.medium.com)
 
 
+<p align="center">
+  <img src="./Assets/,red-lightsaber.svg" alt="Qaevix" />
+</p>
 
 </div>
 
