@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="./assets/qaevix.svg" alt="Qaevix" />
+</p>
+
 # Hi, I'm Qaevix 👋
 
 ### Cybersecurity & Computer Science Student
