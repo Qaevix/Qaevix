@@ -1,0 +1,162 @@
+<svg
+  width="900"
+  height="32"
+  viewBox="0 0 900 32"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <linearGradient id="bladeGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="7%" stop-color="#ffb3b3"/>
+      <stop offset="35%" stop-color="#ff2020"/>
+      <stop offset="85%" stop-color="#ff0000"/>
+      <stop offset="100%" stop-color="#ff7a7a"/>
+    </linearGradient>
+
+    <filter id="redGlow" x="-30%" y="-500%" width="160%" height="1000%">
+      <feGaussianBlur stdDeviation="4" result="blur1"/>
+      <feGaussianBlur stdDeviation="8" result="blur2"/>
+
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="strongGlow" x="-30%" y="-800%" width="160%" height="1600%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+
+  <!-- Handle -->
+  <g transform="translate(24 8)">
+    <rect
+      x="0"
+      y="6"
+      width="58"
+      height="8"
+      rx="3"
+      fill="#262626"
+      stroke="#737373"
+      stroke-width="1"
+    />
+
+    <rect x="6" y="5" width="8" height="10" rx="2" fill="#4b5563"/>
+    <rect x="18" y="6" width="4" height="8" fill="#111827"/>
+    <rect x="27" y="6" width="4" height="8" fill="#111827"/>
+    <rect x="36" y="6" width="4" height="8" fill="#111827"/>
+
+    <circle cx="48" cy="10" r="2" fill="#ff2020">
+      <animate
+        attributeName="opacity"
+        values="0.4;1;0.4"
+        dur="1.2s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <rect x="55" y="4" width="7" height="12" rx="2" fill="#9ca3af"/>
+  </g>
+
+  <!-- Wide glow -->
+  <rect
+    x="84"
+    y="11"
+    width="0"
+    height="10"
+    rx="5"
+    fill="#ff0000"
+    opacity="0.32"
+    filter="url(#strongGlow)"
+  >
+    <animate
+      attributeName="width"
+      values="0;780;780;0;0"
+      keyTimes="0;0.18;0.78;0.94;1"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0.3;0.5;0.3;0"
+      keyTimes="0;0.18;0.48;0.78;1"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <!-- Main blade -->
+  <rect
+    x="84"
+    y="14"
+    width="0"
+    height="4"
+    rx="2"
+    fill="url(#bladeGradient)"
+    filter="url(#redGlow)"
+  >
+    <animate
+      attributeName="width"
+      values="0;780;780;0;0"
+      keyTimes="0;0.18;0.78;0.94;1"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;1;0.82;1;0"
+      keyTimes="0;0.18;0.45;0.78;1"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <!-- White-hot core -->
+  <rect
+    x="84"
+    y="15"
+    width="0"
+    height="2"
+    rx="1"
+    fill="#fffafa"
+  >
+    <animate
+      attributeName="width"
+      values="0;780;780;0;0"
+      keyTimes="0;0.18;0.78;0.94;1"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+  </rect>
+
+  <!-- Moving energy shimmer -->
+  <rect
+    x="84"
+    y="13"
+    width="45"
+    height="6"
+    rx="3"
+    fill="#ffffff"
+    opacity="0"
+    filter="url(#redGlow)"
+  >
+    <animate
+      attributeName="x"
+      values="84;819"
+      dur="1.8s"
+      begin="1.2s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0.75;0"
+      dur="1.8s"
+      begin="1.2s"
+      repeatCount="indefinite"
+    />
+  </rect>
+</svg>
