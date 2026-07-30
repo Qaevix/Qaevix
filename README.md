@@ -1,61 +1,53 @@
-Qaevix (Atakan Bitim) - Cybersecurity Researcher
+<div align="center">
 
-# 🌌 [Qaevix] // Atakan Bitim
+# Hi, I'm Qaevix 👋
 
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+### Cybersecurity & Computer Science Student
 
----
+*Breaking systems to understand how to defend them.*
 
-## 💾 DECRYPTING_IDENTITY...
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://qaevix.github.io)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-l1nux-212c42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/l1nux)
 
-* **REAL_NAME:** Atakan Bitim
-* **ACADEMICS:** Computer Systems Engineering Student @ **Riga Technical University (RTU)**
-* **CREDENTIALS:** Certified Ethical Hacker (CEH)
-* **METRICS:** Ranked **#1 in Latvia** | **#2 in Turkey** | Peak Global Top 100 on **TryHackMe**
-
-> "Uncovering vulnerabilities hidden in the shadows of infrastructure."
+</div>
 
 ---
 
-## 🛠️ TECH_STACK // ARSENAL
+## 🛡️ About Me
 
-### 💻 Offensive & Penetration Testing
+* 🎓 Studying **Computer Science**
+* 🔐 Graduate of **Information Security Technologies**
+* 🚩 Focused on **penetration testing, web security, OSINT, incident response and DFIR**
+* 🧪 Building practical security projects and documenting hands-on labs
+* 📚 Continuously improving through CTFs, TryHackMe rooms and security research
+
+## 🧰 Technologies & Tools
+
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,html,css,js" alt="Technology icons" />
 </p>
 
-### 📡 Core Expertise
-- **Red Teaming & Active Directory Exploitation**
-- **Web Application Penetration Testing (OWASP Top 10, IDOR)**
-- **Network Packet Analysis & Privilege Escalation**
-- **Custom Exploit Scripting (Python, Bash)**
+`Nmap` · `Burp Suite` · `Wireshark` · `Metasploit` · `OSINT` · `Web Security` · `DFIR` · `IAM`
+
+## 🚀 Featured Projects
+
+| Project                                                                                 | Description                                                                                               |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [🌐 Cybersecurity Portfolio](https://github.com/Qaevix/Qaevix.github.io)                | Interactive cyber-themed portfolio with live TryHackMe statistics, certificates and a simulated terminal. |
+| [🎙️ VoiceCrypt](https://github.com/Qaevix/VoiceCrypt)                                  | Python GUI application that converts Turkish speech to text and encrypts it with a Caesar cipher.         |
+| [🚩 TryHackMe Walkthroughs](https://github.com/Qaevix/TryHackMe---Walkthroughs-Answers) | Notes, walkthroughs and answers from hands-on TryHackMe rooms.                                            |
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Qaevix&show_icons=true&hide_border=true&theme=transparent" alt="Qaevix GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaevix&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</div>
 
 ---
 
-## 📝 RECENT_TRANSMISSIONS // WRITE-UPS
+<div align="center">
 
-I break down complex CTF challenges, advanced network vulnerabilities, and privilege escalation pathways to educate the next generation of security researchers.
+### `qaevix@security:~$ keep_learning`
 
-* 🌐 **Technical Blog & Walkthroughs:** [://medium.com](https://://medium.com)
-* 🎯 **TryHackMe Live Profile:** [://tryhackme.com](https://://tryhackme.com)
-
----
-
-## 📟 TERMINAL_FEED
-
-```bash
-\$ nmap -sC -sV -oN qaevix_scan.txt target.local
-\(status: TARGET_COMPROMISED\) echo "Qaevix was here."
-```
-
----
-
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+</div>
