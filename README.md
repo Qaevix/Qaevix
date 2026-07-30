@@ -29,20 +29,7 @@
 
 `Nmap` · `Burp Suite` · `Wireshark` · `Metasploit` · `OSINT` · `Web Security` · `DFIR` · `IAM`
 
-## 🚀 Featured Projects
 
-| Project                                                                                 | Description                                                                                               |
-| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| [🌐 Cybersecurity Portfolio](https://github.com/Qaevix/Qaevix.github.io)                | Interactive cyber-themed portfolio with live TryHackMe statistics, certificates and a simulated terminal. |
-| [🎙️ VoiceCrypt](https://github.com/Qaevix/VoiceCrypt)                                  | Python GUI application that converts Turkish speech to text and encrypts it with a Caesar cipher.         |
-| [🚩 TryHackMe Walkthroughs](https://github.com/Qaevix/TryHackMe---Walkthroughs-Answers) | Notes, walkthroughs and answers from hands-on TryHackMe rooms.                                            |
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Qaevix&show_icons=true&hide_border=true&theme=transparent" alt="Qaevix GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaevix&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</div>
 
 ---
 
