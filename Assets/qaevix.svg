@@ -1,45 +1,104 @@
-<svg width="800" height="180" viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="180" viewBox="0 0 800 180"
+     xmlns="http://www.w3.org/2000/svg">
+
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00F5FF">
-        <animate attributeName="stop-color" values="#00F5FF;#7C3AED;#FF4ECD;#00F5FF" dur="6s" repeatCount="indefinite"/>
+    <linearGradient id="sithRed" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff">
+        <animate
+          attributeName="stop-color"
+          values="#ffffff;#ffb3b3;#ffffff"
+          dur="3s"
+          repeatCount="indefinite"
+        />
       </stop>
-      <stop offset="50%" stop-color="#7C3AED">
-        <animate attributeName="stop-color" values="#7C3AED;#FF4ECD;#00F5FF;#7C3AED" dur="6s" repeatCount="indefinite"/>
+
+      <stop offset="25%" stop-color="#ff5555">
+        <animate
+          attributeName="stop-color"
+          values="#ff5555;#ff0000;#ff5555"
+          dur="3s"
+          repeatCount="indefinite"
+        />
       </stop>
-      <stop offset="100%" stop-color="#FF4ECD">
-        <animate attributeName="stop-color" values="#FF4ECD;#00F5FF;#7C3AED;#FF4ECD" dur="6s" repeatCount="indefinite"/>
+
+      <stop offset="65%" stop-color="#ff0000">
+        <animate
+          attributeName="stop-color"
+          values="#ff0000;#b30000;#ff0000"
+          dur="3s"
+          repeatCount="indefinite"
+        />
       </stop>
-      <animateTransform
-        attributeName="gradientTransform"
-        type="rotate"
-        from="0 0.5 0.5"
-        to="360 0.5 0.5"
-        dur="8s"
-        repeatCount="indefinite"/>
+
+      <stop offset="100%" stop-color="#7a0000">
+        <animate
+          attributeName="stop-color"
+          values="#7a0000;#ff2222;#7a0000"
+          dur="3s"
+          repeatCount="indefinite"
+        />
+      </stop>
     </linearGradient>
 
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="outerGlow" x="-40%" y="-80%" width="180%" height="260%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+
+    <filter id="innerGlow" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="5"/>
     </filter>
   </defs>
 
-  <rect width="800" height="180" rx="22" fill="#0D1117"/>
+  <rect width="800" height="180" rx="22" fill="#080a0f"/>
 
+  <!-- Wide red aura -->
   <text
-    x="50%"
-    y="50%"
+    x="400"
+    y="100"
     text-anchor="middle"
-    dominant-baseline="middle"
-    font-family="Segoe UI, Arial, sans-serif"
-    font-size="78"
-    font-weight="700"
-    fill="url(#grad)"
-    filter="url(#glow)">
+    font-family="Arial, Segoe UI, sans-serif"
+    font-size="100"
+    font-weight="900"
+    letter-spacing="2"
+    fill="#ff0000"
+    opacity="0.75"
+    filter="url(#outerGlow)">
     Qaevix
   </text>
+
+  <!-- Strong inner glow -->
+  <text
+    x="400"
+    y="100"
+    text-anchor="middle"
+    font-family="Arial, Segoe UI, sans-serif"
+    font-size="100"
+    font-weight="900"
+    letter-spacing="2"
+    fill="#ff2020"
+    filter="url(#innerGlow)">
+    Qaevix
+  </text>
+
+  <!-- Main readable text -->
+  <text
+    x="400"
+    y="100"
+    text-anchor="middle"
+    font-family="Arial, Segoe UI, sans-serif"
+    font-size="100"
+    font-weight="900"
+    letter-spacing="2"
+    fill="url(#sithRed)"
+    stroke="#ff5a5a"
+    stroke-width="1">
+    Qaevix
+    <animate
+      attributeName="opacity"
+      values="1;0.88;1"
+      dur="2s"
+      repeatCount="indefinite"
+    />
+  </text>
+
 </svg>
