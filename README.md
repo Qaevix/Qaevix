@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./Assets/qaevix.svg" alt="Qaevix" />
 </p>
-</div>
+
 
 ### Cybersecurity & Computer Science Student
 
