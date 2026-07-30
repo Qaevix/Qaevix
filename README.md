@@ -4,8 +4,6 @@
   <img src="./Assets/qaevix.svg" alt="Qaevix" />
 </p>
 
-# Hi, I'm Qaevix 👋
-
 ### Cybersecurity & Computer Science Student
 
 *Breaking systems to understand how to defend them.*
