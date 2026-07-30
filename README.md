@@ -8,6 +8,9 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://qaevix.github.io)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Qaevix-212c42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Qaevix)
+[![Medium](https://img.shields.io/badge/Medium-Qaevix-212c42?style=for-the-badge\&logo=Medium\&logoColor=white)](https://qaevix.medium.com)
+
+
 
 </div>
 
