@@ -1,24 +1,24 @@
 <svg width="800" height="180" viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#801D1D">
+      <stop offset="0%" stop-color="#A61E1E">
         <animate
           attributeName="stop-color"
-          values="#801D1D;#91211D;#A82A1B;#7B1E19;#471713;#5C1917;#801D1D"
+          values="#A61E1E;#C62828;#FF3B2F;#8E1B1B;#A61E1E"
           dur="8s"
           repeatCount="indefinite"/>
       </stop>
-      <stop offset="50%" stop-color="#A82A1B">
+      <stop offset="50%" stop-color="#D32F2F">
         <animate
           attributeName="stop-color"
-          values="#A82A1B;#8F241B;#6D1A17;#471713;#5C1917;#801D1D;#A82A1B"
+          values="#D32F2F;#FF4A3D;#B71C1C;#7F1818;#D32F2F"
           dur="8s"
           repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#471713">
+      <stop offset="100%" stop-color="#7F1818">
         <animate
           attributeName="stop-color"
-          values="#471713;#3A1413;#291312;#3B1413;#5B1917;#7A1E1A;#471713"
+          values="#7F1818;#5A1414;#3B0F0F;#A61E1E;#7F1818"
           dur="8s"
           repeatCount="indefinite"/>
       </stop>
@@ -32,7 +32,7 @@
     </linearGradient>
 
     <filter id="glow">
-      <feGaussianBlur stdDeviation="4.5" result="coloredBlur"/>
+      <feGaussianBlur stdDeviation="5.5" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
