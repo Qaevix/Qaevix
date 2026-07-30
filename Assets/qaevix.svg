@@ -1,0 +1,45 @@
+<svg width="800" height="180" viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F5FF">
+        <animate attributeName="stop-color" values="#00F5FF;#7C3AED;#FF4ECD;#00F5FF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#FF4ECD;#00F5FF;#7C3AED" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FF4ECD">
+        <animate attributeName="stop-color" values="#FF4ECD;#00F5FF;#7C3AED;#FF4ECD" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <animateTransform
+        attributeName="gradientTransform"
+        type="rotate"
+        from="0 0.5 0.5"
+        to="360 0.5 0.5"
+        dur="8s"
+        repeatCount="indefinite"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="800" height="180" rx="22" fill="#0D1117"/>
+
+  <text
+    x="50%"
+    y="50%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="78"
+    font-weight="700"
+    fill="url(#grad)"
+    filter="url(#glow)">
+    Qaevix
+  </text>
+</svg>
