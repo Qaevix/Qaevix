@@ -67,7 +67,7 @@
   <br><br>
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qaevix&theme=radical"
+    src="https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/7b751d8117be6b74f1de87fccff6f3e6d5b93644/profile-summary-card-output/vision_friendly_dark"
     alt="Qaevix Top Languages"
     width="55%"
   />
