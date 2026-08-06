@@ -51,3 +51,25 @@
 ![image alt](Assets/images.jpg)
 
 </div>
+
+<br>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=Qaevix&theme=radical&hide_border=true"
+    alt="Qaevix GitHub Streak"
+    width="70%"
+  />
+
+  <br><br>
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qaevix&theme=radical"
+    alt="Qaevix Top Languages"
+    width="55%"
+  />
+
+</div>
