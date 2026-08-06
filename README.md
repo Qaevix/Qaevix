@@ -65,23 +65,15 @@
   <br><br>
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Qaevix&show_icons=true&bg_color=000000&title_color=ff2b2b&text_color=ffffff&icon_color=ff2b2b&border_color=8b0000"
+    src="https://github-readme-stats.vercel.app/api?username=Qaevix&show_icons=true&bg_color=000000&title_color=ff4d4d&text_color=ffffff&icon_color=ff4d4d&border_color=ff4d4d"
     alt="Qaevix GitHub Stats"
     width="49%"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaevix&layout=compact&bg_color=000000&title_color=ff2b2b&text_color=ffffff&icon_color=ff2b2b&border_color=8b0000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaevix&layout=compact&bg_color=000000&title_color=ff4d4d&text_color=ffffff&icon_color=ff4d4d&border_color=ff4d4d"
     alt="Qaevix Top Languages"
     width="49%"
-  />
-
-</div>
-
-  <img
-    src="https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/7b751d8117be6b74f1de87fccff6f3e6d5b93644/profile-summary-card-output/vision_friendly_dark"
-    alt="Qaevix Top Languages"
-    width="55%"
   />
 
 </div>
