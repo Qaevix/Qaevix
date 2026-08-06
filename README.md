@@ -65,13 +65,13 @@
   <br><br>
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Qaevix&show_icons=true&bg_color=000000&title_color=ff4d4d&text_color=ffffff&icon_color=ff4d4d&border_color=ff4d4d"
+    src="https://github-readme-stats.vercel.app/api?username=Qaevix&show_icons=true&bg_color=000000&title_color=ff4d4d&text_color=ffffff&icon_color=ff4d4d&border_color=ff6666"
     alt="Qaevix GitHub Stats"
     width="49%"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaevix&layout=compact&bg_color=000000&title_color=ff4d4d&text_color=ffffff&icon_color=ff4d4d&border_color=ff4d4d"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaevix&layout=compact&bg_color=000000&title_color=ff4d4d&text_color=ffffff&icon_color=ff4d4d&border_color=ff6666"
     alt="Qaevix Top Languages"
     width="49%"
   />
