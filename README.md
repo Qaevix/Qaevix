@@ -52,27 +52,23 @@ M4y Th3 F0rc3 B3 W1th Y0U.
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Qaevix/Qaevix/main/Assets/blue-lightsaber.svg" alt="Animated blue lightsaber" width="100%">
-</div>
-
-<div align="center">
 
 <img
- src="https://streak-stats.demolab.com?user=Qaevix&hide_border=true&background=0D1117&stroke=3B0F0F&ring=FF3B2F&fire=FF4A3D&currStreakNum=FF3B2F&sideNums=D32F2F&currStreakLabel=FF4A3D&sideLabels=FFFFFF&dates=9CA3AF&border_radius=12"
- alt="Qaevix GitHub Streak"
- width="70%"
+ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qaevix&theme=github_dark&title_color=FF3B2F&text_color=FFFFFF&bg_color=0D1117&border_color=A61E1E&icon_color=D32F2F&chart_color=FF3B2F&animation=load"
+ alt="Qaevix Profile Details"
+ width="100%"
 />
 
 <br><br>
 
 <img
- src="https://github-readme-stats.vercel.app/api?username=Qaevix&show_icons=true&bg_color=0D1117&title_color=FF3B2F&text_color=FFFFFF&icon_color=D32F2F&border_color=A61E1E&ring_color=FF3B2F&border_radius=12"
+ src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qaevix&theme=github_dark&title_color=FF3B2F&text_color=FFFFFF&bg_color=0D1117&border_color=A61E1E&icon_color=D32F2F&chart_color=FF3B2F&animation=load&hide_logo=true"
  alt="Qaevix GitHub Stats"
  width="49%"
 />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaevix&layout=compact&bg_color=0D1117&title_color=FF3B2F&text_color=FFFFFF&icon_color=D32F2F&border_color=A61E1E&border_radius=12"
+ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qaevix&theme=github_dark&title_color=FF3B2F&text_color=FFFFFF&bg_color=0D1117&border_color=A61E1E&icon_color=D32F2F&chart_color=FF3B2F&animation=load"
  alt="Qaevix Top Languages"
  width="49%"
 />
