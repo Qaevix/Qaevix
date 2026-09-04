@@ -26,12 +26,12 @@
 <img src="https://raw.githubusercontent.com/Qaevix/Qaevix/main/Assets/red-lightsaber.svg" alt="Animated red lightsaber" width="100%">
 </div>
 
-🔐 Graduate of Cyber Security <br>
-🎓 Studying Computer Science <br>
-🚩 Focused on penetration testing, web security, OSINT, incident response and DFIR <br>
-🧪 Building practical security projects and documenting hands-on labs <br>
-📚 Continuously improving through CTFs, TryHackMe rooms, and security research <br>
-🧰 Technologies & Tools <br>
+ Graduate of Cyber Security <br>
+ Studying Computer Science <br>
+ Focused on penetration testing, web security, OSINT, incident response and DFIR <br>
+ Building practical security projects and documenting hands-on labs <br>
+ Continuously improving through CTFs, TryHackMe rooms, and security research <br>
+ Technologies & Tools <br>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,html,css,js" alt="Technology icons" />
