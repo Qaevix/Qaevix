@@ -13,9 +13,9 @@
 </p>
 
 Cybersecurity Specialist | CEH | Penetration Tester | Red Teaming | Web Security
-| AI Security | DevSecOps | Security Engineering | 
+| AI Security 
 
-| CompTIA Pentest+ | Dark Web OSINT | CVE | IoT |
+| DevSecOps | Security Engineering | CompTIA Pentest+ | Dark Web OSINT | CVE | IoT |
 
 | TryHackMe:  Top 100 Worldwide  %1 |  
 | HackTheBox: Top 1000 |
