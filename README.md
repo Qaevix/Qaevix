@@ -12,8 +12,7 @@
   <img src="./Assets/anakinn1.gif" alt="Qaevix" />
 </p>
 
-Cybersecurity Specialist | CEH | Penetration Tester | Red Teaming | Web Security
-| AI Security 
+| Cybersecurity Specialist | CEH | Penetration Tester | Red Teaming | Web Security | AI Security |
 
 | DevSecOps | Security Engineering | CompTIA Pentest+ | Dark Web OSINT | CVE | IoT |
 
