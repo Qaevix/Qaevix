@@ -8,13 +8,9 @@
   <img src="./Assets/qaevix.svg" alt="Qaevix" />
 </p>
 
-Cybersecurity & Computer Science Student
-Breaking systems to understand how to defend them.
-
 <p align="center">
   <img src="./Assets/anakinn1.gif" alt="Qaevix" />
 </p>
-
 
 <br>
 <img src="https://raw.githubusercontent.com/Qaevix/Qaevix/main/Assets/red-lightsaber.svg" alt="Animated red lightsaber" width="100%">
