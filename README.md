@@ -13,10 +13,10 @@
 </p>
 
 Cybersecurity Specialist | CEH | Penetration Tester | Red Teaming | Web Security |
-| AI Security | DevSecOps | Security Engineering | CompTIA Pentest+ | 
+| AI Security | DevSecOps | Security Engineering | CompTIA Pentest+ | Dark Web OSINT | CVE | IoT |
 | TryHackMe:  Top 100 Worldwide  %1 |  
 | HackTheBox: Top 1000 |
-| Dark Web OSINT | CVE | IoT
+
 
 <br>
 <img src="https://raw.githubusercontent.com/Qaevix/Qaevix/main/Assets/red-lightsaber.svg" alt="Animated red lightsaber" width="100%">
