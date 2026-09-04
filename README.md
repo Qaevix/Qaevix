@@ -12,6 +12,9 @@ Cybersecurity & Computer Science Student
 
 Breaking systems to understand how to defend them.
 
+<p align="center">
+  <img src="./Assets/anakinn1.gif" alt="Qaevix" />
+</p>
 
 
 <br>
