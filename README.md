@@ -26,10 +26,6 @@
 <img src="https://raw.githubusercontent.com/Qaevix/Qaevix/main/Assets/red-lightsaber.svg" alt="Animated red lightsaber" width="100%">
 </div>
 
-
-
-🛡️ About Me
-
 🔐 Graduate of Cyber Security
 🎓 Studying Computer Science
 🚩 Focused on penetration testing, web security, OSINT, incident response and DFIR
