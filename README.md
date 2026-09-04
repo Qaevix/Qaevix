@@ -24,16 +24,11 @@ Cybersecurity Specialist | CEH | Penetration Tester | Red Teaming | Web Security
 
 🛡️ About Me
 
-🎓 Studying Computer Science
-
 🔐 Graduate of Cyber Security
-
+🎓 Studying Computer Science
 🚩 Focused on penetration testing, web security, OSINT, incident response and DFIR
-
 🧪 Building practical security projects and documenting hands-on labs
-
-📚 Continuously improving through CTFs, TryHackMe rooms and security research
-
+📚 Continuously improving through CTFs, TryHackMe rooms, and security research
 🧰 Technologies & Tools
 
 <p align="left">
