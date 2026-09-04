@@ -43,12 +43,7 @@ Nmap · Burp Suite · Wireshark · Metasploit · OSINT · Web Security · DFIR �
 
 <div align="center">
 
-M4y Th3 F0rc3 B3 W1th Y0U.
+Flag: 'M4y Th3 F0rc3 B3 W1th Y0U.'
 
-
-
-</div>
-
-<br>
 
 
