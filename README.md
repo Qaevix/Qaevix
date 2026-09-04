@@ -40,8 +40,11 @@
 Nmap · Burp Suite · Wireshark · Metasploit · OSINT · Web Security · DFIR · IAM
 
 <img src="https://raw.githubusercontent.com/Qaevix/Qaevix/main/Assets/green-lightsaber.svg" alt="Animated green lightsaber" width="100%">
-
 <div align="center">
+
+<p align="center">
+  <img src="./Assets/anakinn3.gif" alt="Qaevix" />
+</p>
 
 Flag: 'M4y Th3 F0rc3 B3 W1th Y0U.'
 
