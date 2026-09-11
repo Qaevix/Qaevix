@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./Assets/anakinn1.gif" alt="Qaevix" />
+  <img src="./Assets/anakinn2.gif" alt="Qaevix" />
 </p>
 
 | Cybersecurity Specialist | CEH | Penetration Tester | Red Teaming | Web Security | AI Security | <br>
@@ -19,7 +19,7 @@
 | HackTheBox: Top 1000 |
 
 <p align="center">
-  <img src="./Assets/anakinn2.gif" alt="Qaevix" />
+  <img src="./Assets/anakinn3.gif" alt="Qaevix" />
 </p>
 
 <br>
@@ -43,12 +43,7 @@ Nmap · Burp Suite · Wireshark · Metasploit · OSINT · Web Security · DFIR �
 <div align="center">
 
 <p align="center">
-  <img src="./Assets/anakinn3.gif" alt="Qaevix" />
-</p>
-
-Flag: 'M4y Th3 F0rc3 B3 W1th Y0U.'
-
-<p align="center">
   <img src="./Assets/anakinn4.gif" alt="Qaevix" />
 </p>
 
+Flag: 'M4y_Th3_F0rc3_B3_W1th_Y0U'
