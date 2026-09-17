@@ -46,4 +46,4 @@ Nmap · Burp Suite · Wireshark · Metasploit · OSINT · Web Security · DFIR �
   <img src="./Assets/anakinn4.gif" alt="Qaevix" />
 </p>
 
-Flag: 'M4y_Th3_F0rc3_B3_W1th_Y0U'
+Flag: 'TTR5X1RoM19GMHJjM19CM19XMXRoX1kwVQ=='
