@@ -16,7 +16,7 @@
 | DevSecOps | Security Engineering | CompTIA Pentest+ | Dark Web OSINT | CVE | IoT |
 
 | TryHackMe:  Top 100 Worldwide  %1 |  
-| HackTheBox: Top 1000 |
+| HackTheBox: Top 1100|
 
 <p align="center">
   <img src="./Assets/anakinn3.gif" alt="Qaevix" />
