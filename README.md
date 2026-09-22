@@ -14,10 +14,6 @@
 | TryHackMe:  Top 100 Worldwide  %1 |  
 | HackTheBox: Top 1100|
 
-<p align="center">
-  <img src="./Assets/anakinn3.gif" alt="Qaevix" />
-</p>
-
 <br>
 <img src="https://raw.githubusercontent.com/Qaevix/Qaevix/main/Assets/red-lightsaber.svg" alt="Animated red lightsaber" width="100%">
 </div>
