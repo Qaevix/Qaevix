@@ -8,10 +8,6 @@
   <img src="./Assets/qaevix.svg" alt="Qaevix" />
 </p>
 
-<p align="center">
-  <img src="./Assets/anakinn2.gif" alt="Qaevix" />
-</p>
-
 | Cybersecurity Specialist | CEH | Penetration Tester | Red Teaming | Web Security | AI Security | <br>
 | DevSecOps | Security Engineering | CompTIA Pentest+ | Dark Web OSINT | CVE | IoT |
 
