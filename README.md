@@ -22,7 +22,7 @@
  Studying Computer Science <br>
  Focused on penetration testing, web security, OSINT, incident response and DFIR <br>
  Building practical security projects and documenting hands-on labs <br>
- Continuously improving through CTFs, TryHackMe rooms, and security research <br>
+ Continuously improving through CTFs, TryHackMe rooms, and security research. <br>
 
 
 <p align="left">
