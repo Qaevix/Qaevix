@@ -12,7 +12,7 @@
 | DevSecOps | Security Engineering | CompTIA Pentest+ | Dark Web OSINT | CVE | IoT |
 
 | TryHackMe:  Top 100 Worldwide  %1 |  
-| HackTheBox: Top 1100|
+| HackTheBox: Top 1000|
 
 <br>
 <img src="https://raw.githubusercontent.com/Qaevix/Qaevix/main/Assets/red-lightsaber.svg" alt="Animated red lightsaber" width="100%">
