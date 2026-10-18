@@ -1,0 +1,16 @@
+name: TryHackMe badge
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: napahlm/thm-badge-generator@v1
+        with:
+          username: Qaevix
+          theme: bloodmoon
