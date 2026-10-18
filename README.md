@@ -15,6 +15,14 @@
 | HackTheBox: Top 1000|
 
 <br>
+<a href="https://tryhackme.com/p/Qaevix">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qaevix/Qaevix/main/badges/thm-bloodmoon-dark.gif">
+    <img alt="Qaevix TryHackMe pixel badge" src="https://raw.githubusercontent.com/Qaevix/Qaevix/main/badges/thm-bloodmoon-light.gif" width="644">
+  </picture>
+</a>
+
+<br>
 <img src="https://raw.githubusercontent.com/Qaevix/Qaevix/main/Assets/red-lightsaber.svg" alt="Animated red lightsaber" width="100%">
 </div>
 
