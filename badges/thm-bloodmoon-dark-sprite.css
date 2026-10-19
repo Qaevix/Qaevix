@@ -1,0 +1,16 @@
+/* thm-badge-generator spritesheet: 20 frames, 680x106 each, 50 ms per frame.
+   Markup: <a class="thm-badge" href="https://tryhackme.com/p/USERNAME" aria-label="TryHackMe profile"></a> */
+.thm-badge {
+  display: block;
+  width: 680px;
+  height: 106px;
+  background: url("https://raw.githubusercontent.com/Qaevix/Qaevix/main/badges/thm-bloodmoon-dark-sprite.png") 0 0 / 13600px 106px no-repeat;
+  image-rendering: pixelated;
+  animation: thm-badge-loop 1000ms steps(20) infinite;
+}
+@keyframes thm-badge-loop {
+  to { background-position: -13600px 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .thm-badge { animation: none; }
+}
